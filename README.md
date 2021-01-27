@@ -1,4 +1,4 @@
-#Stock Notebooks
+# Stock Notebooks
 Jupyter notebooks to generate bad financial advice
 
 Run these on Binder: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/danielsoneg/stonks_notebooks/HEAD)
